@@ -1,0 +1,6 @@
+player
+fire
+sounds\fire.wav
+player
+death
+sounds\pl_die1.wav
